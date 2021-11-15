@@ -35,7 +35,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://ricardowdl.github.io/GDUFout.github.io/",
+  "homepage": "./",
   "description": "no",
   "main": "index.js",
   "author": "wendonglin <wendonglin@bytedance.com>",
